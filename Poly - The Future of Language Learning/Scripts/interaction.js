@@ -1,4 +1,4 @@
-const apiKey = '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';
+const apiKey = '';
 const apiEndpoint = 'https://api.openai.com/v1/chat/completions';
 let messagesToDisplay = [
     { role: '', content: '' },
